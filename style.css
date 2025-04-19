@@ -50,7 +50,7 @@ body{
     padding: 17px;
     text-decoration: none;
     font-size: 1.5rem;
-    transition: all .75s cubic-bezier(.08,.59,.29,.99);
+    transition: padding 1s cubic-bezier(.08,.59,.29,.99);
     border: solid var(--colorB) 2px;
     border-radius: 50px;
 }
